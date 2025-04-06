@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @joseph-garni
-- 📫 How to reach me @JosephGarni on linkedin, instagram. Email is @josephgarni@gmail.com.
-- ⚡ Fun fact: Moroccan-Spanish-Greek, and spent 1 year working at a tech startup in london. Current Undergraduate Student Reading Computer Science and Mathematics at the University of Manchester. 
+Undergraduate Student at University of Manchester specialising in Distributed & Scalable Systems and Machine Learning.
+Incoming Data Science / Deep Learning Intern @ Innovative Technology | Cash Validation Systems
+Working On System Architecture & Algorithms @ Manchester Trading Society
+Previously University of Oxford UNIQ Program for Engineering
 
